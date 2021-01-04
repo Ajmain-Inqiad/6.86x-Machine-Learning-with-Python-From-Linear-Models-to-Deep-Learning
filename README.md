@@ -1,5 +1,7 @@
 <h2>Welcome to 6.86x Machine Learning with Python–From Linear Models to Deep Learning.</h2>
 
+<b><a href="https://courses.edx.org/certificates/b46b19e052694c9f8f474688dd0e5f28">Click here to view the Certificate</a></b> 
+
 <br>
 
 <p>Machine learning methods are commonly used across engineering and sciences, from computer systems to physics. Moreover, commercial sites such as search engines, recommender systems (e.g., Netflix, Amazon), advertisers, and financial institutions employ machine learning algorithms for content recommendation, predicting customer behavior, compliance, or risk.
